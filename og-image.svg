@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="KYHS Fridge Magnets OG image">
+  <rect width="1200" height="630" fill="#0a3561"/>
+  <circle cx="980" cy="120" r="260" fill="#0d4f8b" opacity="0.5"/>
+  <circle cx="180" cy="560" r="200" fill="#0d4f8b" opacity="0.4"/>
+  <g transform="translate(90 250)">
+    <path d="M20 150 V90 a55 55 0 0 1 110 0 V150" fill="none" stroke="#fff" stroke-width="26" stroke-linecap="round"/>
+    <rect x="6" y="140" width="34" height="34" rx="5" fill="#d94b3a"/>
+    <rect x="110" y="140" width="34" height="34" rx="5" fill="#d94b3a"/>
+    <text x="75" y="80" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#0a3561" text-anchor="middle">KYHS</text>
+  </g>
+  <g transform="translate(280 210)" font-family="Arial,Helvetica,sans-serif" fill="#fff">
+    <text x="0" y="0" font-size="72" font-weight="700">Custom Fridge Magnets</text>
+    <text x="0" y="95" font-size="42" fill="#bcd6f0">Magnetic Souvenirs · OEM / ODM Factory</text>
+    <text x="0" y="180" font-size="26" fill="#9fc0e0">Wooden · Metal · Resin · Epoxy · PVC  |  Low MOQ · Worldwide Shipping</text>
+  </g>
+  <g transform="translate(90 560)" font-family="Arial,Helvetica,sans-serif" fill="#8fb4d8" font-size="22">
+    <text x="0" y="0">KYHS  ·  KEYUE HONGSHENG I/E CO., LTD.  ·  li651852596@gmail.com  ·  +86 188 5385 3038</text>
+  </g>
+</svg>

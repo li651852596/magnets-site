@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magnets.kyhsexport.com/sitemap.xml

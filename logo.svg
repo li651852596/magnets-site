@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 72" role="img" aria-label="KYHS Fridge Magnets logo">
+  <defs>
+    <linearGradient id="m" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d4f8b"/>
+      <stop offset="1" stop-color="#0a3561"/>
+    </linearGradient>
+  </defs>
+  <!-- magnet horseshoe mark with KYHS -->
+  <g transform="translate(4 6)">
+    <path d="M8 44 V26 a16 16 0 0 1 32 0 V44" fill="none" stroke="url(#m)" stroke-width="10" stroke-linecap="round"/>
+    <rect x="4" y="40" width="12" height="12" rx="2" fill="#d94b3a"/>
+    <rect x="32" y="40" width="12" height="12" rx="2" fill="#d94b3a"/>
+    <text x="24" y="24" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#0a3561" text-anchor="middle">KYHS</text>
+  </g>
+  <g transform="translate(60 18)" font-family="Arial,Helvetica,sans-serif">
+    <text x="0" y="16" font-size="20" font-weight="700" fill="#0a3561" letter-spacing="1">KYHS</text>
+    <text x="0" y="36" font-size="12" font-weight="600" fill="#0d4f8b" letter-spacing="0.5">FRIDGE MAGNETS</text>
+    <text x="0" y="51" font-size="7.5" fill="#5b6b7b" letter-spacing="0.3">KEYUE HONGSHENG I/E CO., LTD.</text>
+  </g>
+</svg>
