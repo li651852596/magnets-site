@@ -1,7 +1,7 @@
 (function () {
   // ===== Cloudflare Web Analytics =====
-  // Leave empty to skip. Fill with a token once the site is added in Cloudflare.
-  var CF_TOKEN = '';
+  // Shared token (same as the other two KYHS sites, per requirement).
+  var CF_TOKEN = '13159866f1e04afe8edfc805a9be5c8e';
   if (CF_TOKEN) {
     var s = document.createElement('script');
     s.defer = true;
